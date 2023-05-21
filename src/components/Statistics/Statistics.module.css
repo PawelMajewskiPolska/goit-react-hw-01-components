@@ -1,0 +1,23 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: beige;
+}
+
+.statList {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin-top: 0;
+}
+
+.statList > li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 55px;
+  padding: 7px;
+}

@@ -1,0 +1,27 @@
+.transactionHistory {
+  width: 430px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.thStyle,
+.thCurrency,
+.thAmount {
+  background-color: lightskyblue;
+  text-transform: uppercase;
+  color: grey;
+  font-size: 12px;
+  padding-block: 3px;
+}
+
+.trStyle {
+  color: azure;
+  font-size: 10px;
+  text-align: center;
+  background-color: gray;
+}
+.trTypeStyle,
+.trAmountType,
+.trCurrencyStyle {
+  padding-block: 3px;
+}
