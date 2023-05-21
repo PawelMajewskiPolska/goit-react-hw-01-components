@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PawelMajewskiPolska/goit-react-hw-01-components/static/css/main.f4acf1f4.css",
+    "main.js": "/PawelMajewskiPolska/goit-react-hw-01-components/static/js/main.dbf28d0d.js",
+    "index.html": "/PawelMajewskiPolska/goit-react-hw-01-components/index.html",
+    "main.f4acf1f4.css.map": "/PawelMajewskiPolska/goit-react-hw-01-components/static/css/main.f4acf1f4.css.map",
+    "main.dbf28d0d.js.map": "/PawelMajewskiPolska/goit-react-hw-01-components/static/js/main.dbf28d0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4acf1f4.css",
+    "static/js/main.dbf28d0d.js"
+  ]
+}
